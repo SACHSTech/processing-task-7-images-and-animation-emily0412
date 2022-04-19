@@ -70,5 +70,4 @@ public class Sketch extends PApplet {
 
   }
   
-  // define other methods down here.
 }
